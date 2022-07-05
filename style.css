@@ -1,0 +1,43 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+h1{
+    text-align: center;
+    color:rgb(241, 140, 15);
+    
+    font-size: 50px;
+}
+.design{
+    text-align: center;
+    font-size: 0px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    max-width: 350px;
+    margin: 0 auto;
+    margin-top: 10px;
+    
+    
+}
+.design:hover{
+    box-shadow: 0 20px 40px 0 rgba(0,0,0,0.2);
+}
+.calc-monitor #result{
+    height: 100px;
+    width: 335px;
+    text-align: right;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 0 5px;
+    letter-spacing: 5px;
+    
+}
+.btn{
+    height: 70px;
+    width: 87px;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: coral;
+}
+.btn-style{
+    background-color:blueviolet;
+}
